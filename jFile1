@@ -1,5 +1,5 @@
 
-//Swap two numbers using temporary variable
+//Swap two numbers using temporary variable in Java
 public class SwapNumbers {
 
     public static void main(String[] args) {
@@ -24,3 +24,13 @@ public class SwapNumbers {
         System.out.println("Second number = " + second);
     }
 }
+
+output:-
+
+--Before swap--
+First number = 1.20f
+Second number = 2.45f
+
+--After swap--
+First number = 2.45f
+Second number = 1.20f
