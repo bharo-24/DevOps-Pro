@@ -19,3 +19,8 @@ x = x - y;
  
 console.log("After Swapping: x = " + 
     x + ", y = " + y);
+
+output:-
+
+Before Swapping: x = 10, y = 5
+After Swapping: x = 5, y = 10
